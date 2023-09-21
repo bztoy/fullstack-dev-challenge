@@ -1,3 +1,4 @@
 ID,createdAt,createdBy,modifiedAt,modifiedBy,title,description
-f0578acd-0eaa-49fd-b04e-01f323f50e69,2023-09-07T11:30:00.000Z,"FullStack",,,"ABAP","ABAP Exam"
-1092084d-9995-4629-adcf-bb20cc382ab5,2023-09-07T12:30:00.000Z,"FullStack",,,"TypeScript","TypeScript Cert"
+f0578acd-0eaa-49fd-b04e-01f323f50e69,2023-09-07T11:30:00.000Z,"FullStack",,,"ABAP","ABAP Cloud"
+1092084d-9995-4629-adcf-bb20cc382ab5,2023-09-07T12:30:00.000Z,"FullStack",,,"TypeScript","TypeScript for CAP and UI5"
+a1f4adb0-bcec-4844-8959-ed408e764dcb,2023-11-11T08:24:00.000Z,"FullStack",,,"OpenUI5","SAP UI Frontend"
