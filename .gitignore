@@ -26,6 +26,9 @@ mta_archives/
 *.iml
 *.flattened-pom.xml
 
+# REST client testing files
+*.http
+
 # IDEs
 # .vscode
 # .idea
