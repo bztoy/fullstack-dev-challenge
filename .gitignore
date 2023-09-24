@@ -1,4 +1,4 @@
-# CAP fullStackDevChallenge
+# CAP fullstack-dev-challenge
 _out
 *.db
 *.sqlite
@@ -25,6 +25,9 @@ mta_archives/
 
 *.iml
 *.flattened-pom.xml
+
+# REST client testing files
+*.http
 
 # IDEs
 # .vscode
